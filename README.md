@@ -4,10 +4,11 @@ DEVoter is a warpcast miniapp and webapp helps open source web3 repo maintainers
 
 ---
 
-📝 TODO,
-[ ] Maintainer repo proposal interface
-[ ] Integration with Farcaster
-[ ] DEV token voting system
-[ ] Add weekly voting results dashboard
-[ ] DEV transfer after voting period ends
-[ ] Much more ...
+📝 TODO
+
+- [ ] Maintainer repo proposal interface
+- [ ] Integration with Farcaster
+- [ ] DEV token voting system
+- [ ] Weekly voting results dashboard
+- [ ] DEV transfer after voting period ends
+- [ ] Much more...
